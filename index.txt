@@ -1,0 +1,1 @@
+los procesos de desarrollo de software son: diseno,analisis,mantenimiento y prueba.
